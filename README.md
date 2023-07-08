@@ -1,4 +1,4 @@
-# Disable Windows Web Search
+# Disable Windows 11 Web Search
 
 1. Open PowerShell with Admin privileges.
 2. Execute the following command: `irm gump.at/dws | iex`
